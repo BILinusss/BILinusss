@@ -1,47 +1,54 @@
-# 👋 Hi, I'm [煤泥猫]
-<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
-💻 Full Stack Developer | 🚀 Vue/React/SpringBoot 实践者 | 🎮 游戏爱好者
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=Monicat%20Cat&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=white&desc=AI4Data%20%C2%B7%20AI%20Agents%20%C2%B7%20Multimodal%20LLMs&descAlignY=62&descSize=16" width="100%"  alt=""/>
 
-<!-- 技术栈徽章（复用你之前的居中代码） -->
-<div style="text-align: center; letter-spacing: 2px; margin: 20px 0;">
-  <!-- 前端 -->
-  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white"  alt=""/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"  alt=""/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"  alt=""/>
-  <img src="https://img.shields.io/badge/-JavaScript-orange?style=flat-square&logo=javascript&logoColor=white"  alt=""/>
-  <img src="https://img.shields.io/badge/-Pinia-FFD43B?style=flat-square&logo=pinia&logoColor=black"  alt=""/>
-  <!-- 后端 -->
-  <br/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"  alt=""/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"  alt=""/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"  alt=""/>
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"  alt=""/>
-  <!-- 趣味标签 -->
-  <img src="https://img.shields.io/badge/-Steam-000000?style=flat-square&logo=steam&logoColor=white"  alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=AI4Data+Researcher+%7C+AI+Agent+Builder;Multimodal+LLM+Explorer;Data-Driven+%C2%B7+Agent-Powered+%C2%B7+Vision-Aware"  alt=""/>
 </div>
 
-## 📌 关于我
-- 🔭 目前专注于：[你的技术方向，如「Vue3 + SpringBoot 全栈开发」]
-- 🌱 学习中：[正在学的技术，如「React 生态、Java Stream 编程」]
-- 💬 擅长：[技术领域，如「前端工程化、后端接口设计」]
-- 📫 联系我：[邮箱/博客/公众号，如 `xxx@xxx.com` | [个人博客](https://xxx.com)]
-- ⚡ 趣味：[个性化标签，如「Steam 游戏爱好者、摄影、徒步」]
+<div align="center">
 
-## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 -->
-<div style="text-align: center">
-  <img src="https://github-stats-extended.vercel.app/api?username=monifcat&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=monifcat&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+# Hi there, I'm 煤泥猫 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="">
+
+<p>
+<img src="https://img.shields.io/badge/Website-个人博客-8c36db?logo=hexo"  alt=""/>&emsp;
+<img src="https://img.shields.io/badge/Twitter-推特-blue?logo=x"  alt=""/>&emsp;
+<img src="https://img.shields.io/badge/YouTube-油管-c32136?logo=youtube"  alt=""/>&emsp;
+<img src="https://img.shields.io/badge/WeChat-微信-07c160?logo=wechat"  alt=""/>&emsp;
+<img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili"  alt=""/>&emsp;
+<!-- visitor -->
+<img src="https://komarev.com/ghpvc/?username=monifcat&color=brightgreen" alt="访问量统计" />&emsp;
+<!-- wakatime -->
+<img src="https://wakatime.com/badge/user/5412adc5-cd74-428f-b536-4ec1af109824.svg"  alt=""/>
+</p>
+
 </div>
 
-## 🌟 重点项目
-| 项目名称                     | 技术栈                        | 简介                               |
-|--------------------------|----------------------------|----------------------------------|
-| [项目1]((https://xxx.com)) | Vue3 + TS + Pinia          | 「xxx 管理系统」：实现了 xxx 功能，适配移动端/PC 端 |
-| [项目2]((https://xxx.com)) | SpringBoot + MySQL + Redis | 「xxx 接口服务」：提供 xxx 接口，支持高并发       |
+<div align="center">
 
-## 🎨 趣味数据
-<!-- GitHub 贡献图 -->
-<div style="text-align: center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monifcat&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+### 技能图标墙
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,linux,spring,mysql,vue,react,npm,nodejs,git,vscode,idea,github,docker&perline=9"  alt=""/>
 </div>
+
+<div align="center">
+
+### 贡献统计卡片
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monifcat&theme=transparent&show_icons=true" width="32%"  alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monifcat&theme=transparent" width="32%"  alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monifcat&theme=transparent" width="32%"  alt=""/>
+</div>
+
+<div align="center">
+
+[//]: # (### Snake 贡献动画)
+
+</div>
+
+<div align="center">
+
+### 活动热力图 + 3D 贡献图
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monifcat&theme=transparent" width="100%"  alt=""/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4E7FD4,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%" alt=""/>
