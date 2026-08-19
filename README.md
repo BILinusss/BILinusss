@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,100:FFD08A&height=250&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=52&fontAlignY=35&animation=fadeIn&fontColor=white&desc=为%20API%20而生，为%20框架而死，为%20Debug%20奋斗一辈子&descAlignY=63" alt="Welcome to my GitHub Profile" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A3D,100:FFD08A&height=250&section=header&text=Welcome%20to%20my%20GitHub%20Profile&fontSize=52&fontAlignY=35&animation=fadeIn&fontColor=white&desc=为%20API%20而生，为框架而死，为%20Debug%20奋斗一辈子&descAlignY=63" alt="Welcome to my GitHub Profile" />
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FFB000AA&center=true&vCenter=true&width=720&lines=System.out.println(%22Hello+World%22);0+error(s)%EF%BC%8C0+warning(s)" alt="Typing SVG" />
 </div>
